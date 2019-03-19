@@ -8,3 +8,13 @@ C:\Users\humbl\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.Generate
 C:\Users\humbl\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 C:\Users\humbl\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\humbl\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.MathQuiz.resources
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\humbl\source\repos\MathQuiz\cit365MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

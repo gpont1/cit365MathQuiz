@@ -166,6 +166,11 @@ namespace MathQuiz
                 answerBox.Select(0, lengthOfAnswer);
             }
         }
+
+        private void MathQuiz_Load(object sender, EventArgs e)
+        {
+            dateLabel.Text = DateTime.Now.ToString("dd MMMM yyyy");
+        }
     }       
 }
 
